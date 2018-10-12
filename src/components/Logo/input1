@@ -1,0 +1,5 @@
+const input1 = (randomSongs) => {
+	return(
+		<input onClick={this.onClickEvent} type="radio" name="gender" value="female"> <label 
+				  className="lh-copy link  black pv2 bg-animate hover-bg-green ">{randomSongs[0].song}</label> <br/>)
+				}
